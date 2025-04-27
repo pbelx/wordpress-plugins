@@ -1,2 +1,2 @@
 # wordpress-plugins
-word press plugins
+My word press plugins
